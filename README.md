@@ -20,13 +20,13 @@ Projeto resultado do desafio proposto. Formulário simples de cadastro de usuár
     - Crie um diretorio para o projeto. Ex: ```mkdir projetoName``` 
     - Acesse o diretorio criado. ```cd projetoName```
     - ```git clone https://github.com/r7alves/bemol-digital-users.git```
-    - execute -via cmd- ```composer install``` (no diretório criado :) )
+    - execute -via cmd- ```composer install``` (no diretório do projeto :) )
     - execute -via cmd- ```cp .env.example .env```
 - Crie o banco de dados (mysql) _bemol_digital_
 - Edite o arquivo _.env_ com suas credenciais do banco:
         DB_USERNAME=<kbd>usuario</kbd>  
         DB_PASSWORD=<kbd>senha</kbd>
-- Execute -via cmd, no diretorio ```projetoName``` -:
+- Execute -via cmd, no diretorio do projeto -:
     ```
         php artisan key:generate
         php artisan migrate
