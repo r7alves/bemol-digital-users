@@ -1,0 +1,11 @@
+Questões 
+1. A solução deve ser disponibilizada em Cloud ou On-premise? 
+Cloud. 
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe, a ferramenta é ágil? 
+Utilizando o Scrum como metodologia acredito que uma ferramenta muito boa seria o Trello.
+3. Você se sente capaz de liderar esta equipe? Por quê? 
+Sem conhecer o escopo geral do projeto, creio ser pretensao afirmar minha capacidade em liderar um time. Entretanto, se ha a cultura agil no ambiente de desenvolvimento, seria um ganho para liderança.
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria? 
+Sem observacoes.
+5. Acha válido esse desafio para o processo que está participando?
+Sim. O candidato ja entede um pouco do que se espera dele e a empresa valida, ao menos no contexto do desafio, o participante.
