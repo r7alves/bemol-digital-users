@@ -3,8 +3,8 @@
   
     <div class="container" >
         <div class="py-5 text-center">
-            {{-- <img class="d-block mx-auto mb-4" src="https://d8xabijtzlaac.cloudfront.net/Custom/Content/Themes/Shared/Images/marca-bemol.svg" --}}
-                {{-- alt="" width="120" height="120"> --}}
+            <img class="d-block mx-auto mb-4" src="https://d8xabijtzlaac.cloudfront.net/Custom/Content/Themes/Shared/Images/marca-bemol.svg"
+                alt="" width="120" height="120">
             <h2>Dados Cadastrais</h2>
             
         </div>

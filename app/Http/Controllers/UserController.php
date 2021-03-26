@@ -21,6 +21,11 @@ class UserController extends Controller
         $users = User::with(['pessoa', 'enderecos'])->get();
         return $users;
     }
+    
+    public function create()
+    {
+        return view('users.create');
+    }
     /**
      * Store a newly created resource in storage.
      *
@@ -31,7 +36,6 @@ class UserController extends Controller
     {
         
         $data = $request->all();
-        //dd($data);
         $person = null;
         if($data['tipo'] == 'pessoaFisica'){
             $this->validate($request, [
